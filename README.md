@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+This is a web application built completely on react.JS, In this app one can convert the text to many formats like uppercase, lovercase, removing redundant spaces, removing new lines, removing all the punctuations and many other functionalities.
+
+##### View This Project on [TextUtilities](https://rakeshgombi.github.io/textutilities)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
